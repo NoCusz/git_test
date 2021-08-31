@@ -1,0 +1,1 @@
+This is NoCusz's first git project!
